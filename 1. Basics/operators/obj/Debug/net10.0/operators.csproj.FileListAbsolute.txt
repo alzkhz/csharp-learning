@@ -1,0 +1,29 @@
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\basic\operators\bin\Debug\net10.0\operators.exe
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\basic\operators\bin\Debug\net10.0\operators.deps.json
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\basic\operators\bin\Debug\net10.0\operators.runtimeconfig.json
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\basic\operators\bin\Debug\net10.0\operators.dll
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\basic\operators\bin\Debug\net10.0\operators.pdb
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\basic\operators\obj\Debug\net10.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\basic\operators\obj\Debug\net10.0\operators.AssemblyInfoInputs.cache
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\basic\operators\obj\Debug\net10.0\operators.AssemblyInfo.cs
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\basic\operators\obj\Debug\net10.0\operators.csproj.CoreCompileInputs.cache
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\basic\operators\obj\Debug\net10.0\operators.dll
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\basic\operators\obj\Debug\net10.0\refint\operators.dll
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\basic\operators\obj\Debug\net10.0\operators.pdb
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\basic\operators\obj\Debug\net10.0\operators.genruntimeconfig.cache
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\basic\operators\obj\Debug\net10.0\ref\operators.dll
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\1. Basics\operators\bin\Debug\net10.0\operators.exe
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\1. Basics\operators\bin\Debug\net10.0\operators.deps.json
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\1. Basics\operators\bin\Debug\net10.0\operators.runtimeconfig.json
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\1. Basics\operators\bin\Debug\net10.0\operators.dll
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\1. Basics\operators\bin\Debug\net10.0\operators.pdb
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\1. Basics\operators\obj\Debug\net10.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\1. Basics\operators\obj\Debug\net10.0\operators.AssemblyInfoInputs.cache
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\1. Basics\operators\obj\Debug\net10.0\operators.AssemblyInfo.cs
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\1. Basics\operators\obj\Debug\net10.0\operators.csproj.CoreCompileInputs.cache
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\1. Basics\operators\obj\Debug\net10.0\operators.sourcelink.json
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\1. Basics\operators\obj\Debug\net10.0\operators.dll
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\1. Basics\operators\obj\Debug\net10.0\refint\operators.dll
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\1. Basics\operators\obj\Debug\net10.0\operators.pdb
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\1. Basics\operators\obj\Debug\net10.0\operators.genruntimeconfig.cache
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\1. Basics\operators\obj\Debug\net10.0\ref\operators.dll
