@@ -1,0 +1,14 @@
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\latihan1\bin\Debug\net10.0\latihan1.exe
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\latihan1\bin\Debug\net10.0\latihan1.deps.json
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\latihan1\bin\Debug\net10.0\latihan1.runtimeconfig.json
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\latihan1\bin\Debug\net10.0\latihan1.dll
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\latihan1\bin\Debug\net10.0\latihan1.pdb
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\latihan1\obj\Debug\net10.0\latihan1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\latihan1\obj\Debug\net10.0\latihan1.AssemblyInfoInputs.cache
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\latihan1\obj\Debug\net10.0\latihan1.AssemblyInfo.cs
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\latihan1\obj\Debug\net10.0\latihan1.csproj.CoreCompileInputs.cache
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\latihan1\obj\Debug\net10.0\latihan1.dll
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\latihan1\obj\Debug\net10.0\refint\latihan1.dll
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\latihan1\obj\Debug\net10.0\latihan1.pdb
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\latihan1\obj\Debug\net10.0\latihan1.genruntimeconfig.cache
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\latihan1\obj\Debug\net10.0\ref\latihan1.dll

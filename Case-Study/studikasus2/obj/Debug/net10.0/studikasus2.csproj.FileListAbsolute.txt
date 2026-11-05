@@ -1,0 +1,14 @@
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\studikasus2\bin\Debug\net10.0\studikasus2.exe
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\studikasus2\bin\Debug\net10.0\studikasus2.deps.json
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\studikasus2\bin\Debug\net10.0\studikasus2.runtimeconfig.json
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\studikasus2\bin\Debug\net10.0\studikasus2.dll
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\studikasus2\bin\Debug\net10.0\studikasus2.pdb
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\studikasus2\obj\Debug\net10.0\studikasus2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\studikasus2\obj\Debug\net10.0\studikasus2.AssemblyInfoInputs.cache
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\studikasus2\obj\Debug\net10.0\studikasus2.AssemblyInfo.cs
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\studikasus2\obj\Debug\net10.0\studikasus2.csproj.CoreCompileInputs.cache
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\studikasus2\obj\Debug\net10.0\studikasus2.dll
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\studikasus2\obj\Debug\net10.0\refint\studikasus2.dll
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\studikasus2\obj\Debug\net10.0\studikasus2.pdb
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\studikasus2\obj\Debug\net10.0\studikasus2.genruntimeconfig.cache
+C:\Users\PC Animasi 2\Documents\alzkhz\c#\studikasus2\obj\Debug\net10.0\ref\studikasus2.dll
