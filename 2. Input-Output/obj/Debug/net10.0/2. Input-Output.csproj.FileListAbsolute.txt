@@ -1,0 +1,15 @@
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\2. Input-Output\bin\Debug\net10.0\2. Input-Output.exe
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\2. Input-Output\bin\Debug\net10.0\2. Input-Output.deps.json
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\2. Input-Output\bin\Debug\net10.0\2. Input-Output.runtimeconfig.json
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\2. Input-Output\bin\Debug\net10.0\2. Input-Output.dll
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\2. Input-Output\bin\Debug\net10.0\2. Input-Output.pdb
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\2. Input-Output\obj\Debug\net10.0\2. Input-Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\2. Input-Output\obj\Debug\net10.0\2. Input-Output.AssemblyInfoInputs.cache
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\2. Input-Output\obj\Debug\net10.0\2. Input-Output.AssemblyInfo.cs
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\2. Input-Output\obj\Debug\net10.0\2. Input-Output.csproj.CoreCompileInputs.cache
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\2. Input-Output\obj\Debug\net10.0\2. Input-Output.sourcelink.json
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\2. Input-Output\obj\Debug\net10.0\2. Input-Output.dll
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\2. Input-Output\obj\Debug\net10.0\refint\2. Input-Output.dll
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\2. Input-Output\obj\Debug\net10.0\2. Input-Output.pdb
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\2. Input-Output\obj\Debug\net10.0\2. Input-Output.genruntimeconfig.cache
+C:\Users\PC Animasi 2\Documents\alzkhz\csharp-learning\2. Input-Output\obj\Debug\net10.0\ref\2. Input-Output.dll
