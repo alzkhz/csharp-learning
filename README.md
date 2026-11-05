@@ -117,7 +117,7 @@ Simple, readable, and focused on understanding the fundamentals first.
 ## Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR-USERNAME">
+  <a href="https://github.com/alzkhz">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </p>
