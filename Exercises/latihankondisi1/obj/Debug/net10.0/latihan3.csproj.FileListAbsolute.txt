@@ -1,0 +1,14 @@
+D:\Alzkhz\C#\latihankondisi1\bin\Debug\net10.0\latihan3.exe
+D:\Alzkhz\C#\latihankondisi1\bin\Debug\net10.0\latihan3.deps.json
+D:\Alzkhz\C#\latihankondisi1\bin\Debug\net10.0\latihan3.runtimeconfig.json
+D:\Alzkhz\C#\latihankondisi1\bin\Debug\net10.0\latihan3.dll
+D:\Alzkhz\C#\latihankondisi1\bin\Debug\net10.0\latihan3.pdb
+D:\Alzkhz\C#\latihankondisi1\obj\Debug\net10.0\latihan3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alzkhz\C#\latihankondisi1\obj\Debug\net10.0\latihan3.AssemblyInfoInputs.cache
+D:\Alzkhz\C#\latihankondisi1\obj\Debug\net10.0\latihan3.AssemblyInfo.cs
+D:\Alzkhz\C#\latihankondisi1\obj\Debug\net10.0\latihan3.csproj.CoreCompileInputs.cache
+D:\Alzkhz\C#\latihankondisi1\obj\Debug\net10.0\latihan3.dll
+D:\Alzkhz\C#\latihankondisi1\obj\Debug\net10.0\refint\latihan3.dll
+D:\Alzkhz\C#\latihankondisi1\obj\Debug\net10.0\latihan3.pdb
+D:\Alzkhz\C#\latihankondisi1\obj\Debug\net10.0\latihan3.genruntimeconfig.cache
+D:\Alzkhz\C#\latihankondisi1\obj\Debug\net10.0\ref\latihan3.dll
