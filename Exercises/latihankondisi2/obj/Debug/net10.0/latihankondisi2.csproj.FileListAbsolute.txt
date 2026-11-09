@@ -1,0 +1,14 @@
+D:\Alzkhz\C#\latihankondisi2\bin\Debug\net10.0\latihankondisi2.exe
+D:\Alzkhz\C#\latihankondisi2\bin\Debug\net10.0\latihankondisi2.deps.json
+D:\Alzkhz\C#\latihankondisi2\bin\Debug\net10.0\latihankondisi2.runtimeconfig.json
+D:\Alzkhz\C#\latihankondisi2\bin\Debug\net10.0\latihankondisi2.dll
+D:\Alzkhz\C#\latihankondisi2\bin\Debug\net10.0\latihankondisi2.pdb
+D:\Alzkhz\C#\latihankondisi2\obj\Debug\net10.0\latihankondisi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alzkhz\C#\latihankondisi2\obj\Debug\net10.0\latihankondisi2.AssemblyInfoInputs.cache
+D:\Alzkhz\C#\latihankondisi2\obj\Debug\net10.0\latihankondisi2.AssemblyInfo.cs
+D:\Alzkhz\C#\latihankondisi2\obj\Debug\net10.0\latihankondisi2.csproj.CoreCompileInputs.cache
+D:\Alzkhz\C#\latihankondisi2\obj\Debug\net10.0\latihankondisi2.dll
+D:\Alzkhz\C#\latihankondisi2\obj\Debug\net10.0\refint\latihankondisi2.dll
+D:\Alzkhz\C#\latihankondisi2\obj\Debug\net10.0\latihankondisi2.pdb
+D:\Alzkhz\C#\latihankondisi2\obj\Debug\net10.0\latihankondisi2.genruntimeconfig.cache
+D:\Alzkhz\C#\latihankondisi2\obj\Debug\net10.0\ref\latihankondisi2.dll
