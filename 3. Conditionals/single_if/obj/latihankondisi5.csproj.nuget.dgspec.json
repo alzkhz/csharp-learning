@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Alzkhz\\C#\\single_if\\latihankondisi5.csproj": {}
+    "D:\\csharp-learning\\3. Conditionals\\single_if\\latihankondisi5.csproj": {}
   },
   "projects": {
-    "D:\\Alzkhz\\C#\\single_if\\latihankondisi5.csproj": {
+    "D:\\csharp-learning\\3. Conditionals\\single_if\\latihankondisi5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Alzkhz\\C#\\single_if\\latihankondisi5.csproj",
+        "projectUniqueName": "D:\\csharp-learning\\3. Conditionals\\single_if\\latihankondisi5.csproj",
         "projectName": "latihankondisi5",
-        "projectPath": "D:\\Alzkhz\\C#\\single_if\\latihankondisi5.csproj",
+        "projectPath": "D:\\csharp-learning\\3. Conditionals\\single_if\\latihankondisi5.csproj",
         "packagesPath": "C:\\Users\\SMKN13\\.nuget\\packages\\",
-        "outputPath": "D:\\Alzkhz\\C#\\single_if\\obj\\",
+        "outputPath": "D:\\csharp-learning\\3. Conditionals\\single_if\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

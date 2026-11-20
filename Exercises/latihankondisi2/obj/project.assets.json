@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Alzkhz\\C#\\latihankondisi2\\latihankondisi2.csproj",
+      "projectUniqueName": "D:\\csharp-learning\\Exercises\\latihankondisi2\\latihankondisi2.csproj",
       "projectName": "latihankondisi2",
-      "projectPath": "D:\\Alzkhz\\C#\\latihankondisi2\\latihankondisi2.csproj",
+      "projectPath": "D:\\csharp-learning\\Exercises\\latihankondisi2\\latihankondisi2.csproj",
       "packagesPath": "C:\\Users\\SMKN13\\.nuget\\packages\\",
-      "outputPath": "D:\\Alzkhz\\C#\\latihankondisi2\\obj\\",
+      "outputPath": "D:\\csharp-learning\\Exercises\\latihankondisi2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

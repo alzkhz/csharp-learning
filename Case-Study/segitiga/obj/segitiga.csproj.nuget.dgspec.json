@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Alzkhz\\C#\\segitiga\\segitiga.csproj": {}
+    "D:\\csharp-learning\\Case-Study\\segitiga\\segitiga.csproj": {}
   },
   "projects": {
-    "D:\\Alzkhz\\C#\\segitiga\\segitiga.csproj": {
+    "D:\\csharp-learning\\Case-Study\\segitiga\\segitiga.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Alzkhz\\C#\\segitiga\\segitiga.csproj",
+        "projectUniqueName": "D:\\csharp-learning\\Case-Study\\segitiga\\segitiga.csproj",
         "projectName": "segitiga",
-        "projectPath": "D:\\Alzkhz\\C#\\segitiga\\segitiga.csproj",
+        "projectPath": "D:\\csharp-learning\\Case-Study\\segitiga\\segitiga.csproj",
         "packagesPath": "C:\\Users\\SMKN13\\.nuget\\packages\\",
-        "outputPath": "D:\\Alzkhz\\C#\\segitiga\\obj\\",
+        "outputPath": "D:\\csharp-learning\\Case-Study\\segitiga\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

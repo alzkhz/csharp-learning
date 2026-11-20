@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Alzkhz\\C#\\latihankondisi3\\latihankondisi3.csproj": {}
+    "D:\\csharp-learning\\Exercises\\latihankondisi3\\latihankondisi3.csproj": {}
   },
   "projects": {
-    "D:\\Alzkhz\\C#\\latihankondisi3\\latihankondisi3.csproj": {
+    "D:\\csharp-learning\\Exercises\\latihankondisi3\\latihankondisi3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Alzkhz\\C#\\latihankondisi3\\latihankondisi3.csproj",
+        "projectUniqueName": "D:\\csharp-learning\\Exercises\\latihankondisi3\\latihankondisi3.csproj",
         "projectName": "latihankondisi3",
-        "projectPath": "D:\\Alzkhz\\C#\\latihankondisi3\\latihankondisi3.csproj",
+        "projectPath": "D:\\csharp-learning\\Exercises\\latihankondisi3\\latihankondisi3.csproj",
         "packagesPath": "C:\\Users\\SMKN13\\.nuget\\packages\\",
-        "outputPath": "D:\\Alzkhz\\C#\\latihankondisi3\\obj\\",
+        "outputPath": "D:\\csharp-learning\\Exercises\\latihankondisi3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
